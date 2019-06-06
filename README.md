@@ -4,3 +4,4 @@ Kept as a separate repository and used as a submodule in the [main project](http
 
 If this repo grows too large, feel free to remove everything or rewrite history with `--force` to get rid of all the binary blobs.
 
+Consider running `./pngcrush.sh` script to reduce size of PNG images before committing.
